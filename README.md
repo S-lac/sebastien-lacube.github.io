@@ -1,2 +1,2 @@
-# sebastienlacube.github.io
+# My github.io
 Codes &amp; Stuffs
